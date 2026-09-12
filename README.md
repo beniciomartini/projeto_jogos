@@ -1,5 +1,5 @@
 # Projeto de Jogos
-*Feito na Unity
+*Desenvolvido no Unity
 
 *Scripts em C#
 
