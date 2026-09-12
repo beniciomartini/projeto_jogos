@@ -1,2 +1,11 @@
 # Projeto de Jogos
-Com puzzles e desafios, que ajudam na atividades cognitivas. Com Inimigos, Plataformas que se movem, e Itens com utilidades necessárias para passar de fase.
+*Feito na Unity
+
+*Scripts em C#
+
+Contém:
+
+*Puzzles e desafios, que ajudam na atividades cognitivas
+*Inimigos
+*Plataformas que se movem
+*Itens com utilidades necessárias para passar de fase
